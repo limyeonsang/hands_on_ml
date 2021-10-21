@@ -6,6 +6,4 @@ datasets
 
 .ipynb_checkpoinst
 
-Decision Tree.ipynb
-
-ANN.ipynb
+my_mnist.data
